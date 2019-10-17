@@ -1,0 +1,34 @@
+{
+  "_id": "page.select-court",
+  "_type": "page.singlequestion",
+  "actionType": "continue",
+  "components": [
+    {
+      "_id": "page.select-court--select.auto_name__2",
+      "_type": "select",
+      "items": [
+        {
+          "_id": "page.select-court--select.auto_name__2--option",
+          "_type": "option",
+          "text": "Basildon Crown Court",
+          "value": "basildon"
+        },
+        {
+          "_id": "page.select-court--select.auto_name__2--option--2",
+          "_type": "option",
+          "text": "London Central Court",
+          "value": "london-central-court"
+        },
+        {
+          "_id": "page.select-court--select.auto_name__2--option--3",
+          "_type": "option",
+          "text": "Reading magistrates court",
+          "value": "reading-magistrates-court"
+        }
+      ],
+      "label": "Select the court you would like to tell us about",
+      "name": "auto_name__2"
+    }
+  ],
+  "url": "select-court"
+}

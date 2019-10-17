@@ -1,0 +1,51 @@
+{
+  "_id": "page.select-topic",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.select-topic--checkboxes",
+      "_type": "checkboxes",
+      "hint": "What do you want to tell us about?",
+      "items": [
+        {
+          "_id": "page.select-topic--checkboxes--checkbox.auto_name__9",
+          "_type": "checkbox",
+          "label": "Facilities and buildings",
+          "name": "auto_name__9"
+        },
+        {
+          "_id": "page.select-topic--checkboxes--checkbox.auto_name__10",
+          "_type": "checkbox",
+          "label": "Your experience",
+          "name": "auto_name__10"
+        },
+        {
+          "_id": "page.select-topic--checkboxes--checkbox.auto_name__11",
+          "_type": "checkbox",
+          "label": "Staff",
+          "name": "auto_name__11"
+        },
+        {
+          "_id": "page.select-topic--checkboxes--checkbox.auto_name__12",
+          "_type": "checkbox",
+          "label": "Security",
+          "name": "auto_name__12"
+        },
+        {
+          "_id": "page.select-topic--checkboxes--checkbox.auto_name__13",
+          "_type": "checkbox",
+          "label": "Information and guidance",
+          "name": "auto_name__13"
+        },
+        {
+          "_id": "page.select-topic--checkboxes--checkbox.auto_name__14",
+          "_type": "checkbox",
+          "label": "Other",
+          "name": "auto_name__14"
+        }
+      ],
+      "legend": "Tell us about the court"
+    }
+  ],
+  "url": "select-topic-1"
+}

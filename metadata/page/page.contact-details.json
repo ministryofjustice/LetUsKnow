@@ -1,0 +1,48 @@
+{
+  "_id": "page.contact-details",
+  "_type": "page.form",
+  "body": "We’ll only use your email or phone number to contact you with a response",
+  "components": [
+    {
+      "_id": "page.contact-details--email.auto_name__6",
+      "_type": "email",
+      "label": "Email address",
+      "name": "auto_name__6",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "_id": "page.contact-details--text.auto_name__7",
+      "_type": "text",
+      "label": "UK telephone number",
+      "name": "auto_name__7",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "_id": "page.contact-details--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.contact-details--checkboxes--checkbox.auto_name__8",
+          "_type": "checkbox",
+          "label": "Yes, I agree to being contacted",
+          "name": "auto_name__8"
+        }
+      ],
+      "legend": "I agree to being contacted",
+      "validation": {
+        "required": true
+      }
+    }
+  ],
+  "heading": "Let us know how we can contact you",
+  "show": {
+    "identifier": "auto_name__4",
+    "operator": "is",
+    "value": "auto_value__13"
+  },
+  "url": "contact-details"
+}

@@ -1,0 +1,87 @@
+{
+  "_id": "page.user-type--2",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.user-type--2--radios.auto_name__3",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Appellant / applicant / claimant",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Defendant / respondent",
+          "value": "auto_value__2"
+        },
+        {
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Legal representative",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__4",
+          "_type": "radio",
+          "label": "Member of the public",
+          "value": "auto_value__4"
+        },
+        {
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__5",
+          "_type": "radio",
+          "label": "Third party",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__6",
+          "_type": "radio",
+          "label": "Juror",
+          "value": "auto_value__6"
+        },
+        {
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__7",
+          "_type": "radio",
+          "label": "Non professional support",
+          "value": "auto_value__7"
+        },
+        {
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__8",
+          "_type": "radio",
+          "label": "Victim",
+          "value": "auto_value__8"
+        },
+        {
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__9",
+          "_type": "radio",
+          "label": "Professional user (e.g. Barrister)",
+          "value": "auto_value__9"
+        },
+        {
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__10",
+          "_type": "radio",
+          "label": "Witness",
+          "value": "auto_value__10"
+        },
+        {
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__11",
+          "_type": "radio",
+          "label": "MP or councillor",
+          "value": "auto_value__11"
+        },
+        {
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__12",
+          "_type": "radio",
+          "label": "Other",
+          "value": "auto_value__12"
+        }
+      ],
+      "legend": "What brought you to court?",
+      "name": "auto_name__3"
+    }
+  ],
+  "url": "user-type"
+}
