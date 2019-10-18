@@ -1,0 +1,59 @@
+{
+  "_id": "page.information-guidance",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.information-guidance--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select all that apply, you will be able to enter more details on the next page",
+      "items": [
+        {
+          "_id": "page.information-guidance--checkboxes--checkbox.auto_name__40",
+          "_type": "checkbox",
+          "label": "I had all the information I needed",
+          "name": "auto_name__40"
+        },
+        {
+          "_id": "page.information-guidance--checkboxes--checkbox.auto_name__41",
+          "_type": "checkbox",
+          "label": "I could not find the information I needed",
+          "name": "auto_name__41"
+        },
+        {
+          "_id": "page.information-guidance--checkboxes--checkbox.auto_name__42",
+          "_type": "checkbox",
+          "label": "The court I was going to was signposted well",
+          "name": "auto_name__42"
+        },
+        {
+          "_id": "page.information-guidance--checkboxes--checkbox.auto_name__43",
+          "_type": "checkbox",
+          "label": "I could not find where I was meant to be going",
+          "name": "auto_name__43"
+        },
+        {
+          "_id": "page.information-guidance--checkboxes--checkbox.auto_name__44",
+          "_type": "checkbox",
+          "conditionalComponent": {
+            "_id": "page.information-guidance--checkboxes--checkbox.auto_name__44--text.auto_name__45",
+            "_type": "text",
+            "label": "Tell us more about the information and guidance in court",
+            "name": "auto_name__45"
+          },
+          "label": "Other",
+          "name": "auto_name__44"
+        }
+      ],
+      "legend": "Tell us more about the information and guidance at the court "
+    }
+  ],
+  "enableSteps": true,
+  "show": {
+    "identifier": "auto_name__13",
+    "operator": "defined"
+  },
+  "steps": [
+    "page.information-guidance-details"
+  ],
+  "url": "information-guidance"
+}

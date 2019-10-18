@@ -1,0 +1,17 @@
+{
+  "_id": "page.staff-details",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.staff-details--textarea.auto_name__46",
+      "_type": "textarea",
+      "hint": "Optional",
+      "label": "Tell us some more details about the court staff",
+      "name": "auto_name__46",
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "url": "staff-details"
+}

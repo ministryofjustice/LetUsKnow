@@ -1,0 +1,59 @@
+{
+  "_id": "page.staff",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.staff--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.staff--checkboxes--checkbox.auto_name__22",
+          "_type": "checkbox",
+          "label": "The staff were helpful",
+          "name": "auto_name__22"
+        },
+        {
+          "_id": "page.staff--checkboxes--checkbox.auto_name__23",
+          "_type": "checkbox",
+          "label": "There were enough staff at the court",
+          "name": "auto_name__23"
+        },
+        {
+          "_id": "page.staff--checkboxes--checkbox.auto_name__24",
+          "_type": "checkbox",
+          "label": "The were not enough staff at the court",
+          "name": "auto_name__24"
+        },
+        {
+          "_id": "page.staff--checkboxes--checkbox.auto_name__25",
+          "_type": "checkbox",
+          "label": "The staff were unhelpful",
+          "name": "auto_name__25"
+        },
+        {
+          "_id": "page.staff--checkboxes--checkbox.auto_name__26",
+          "_type": "checkbox",
+          "conditionalComponent": {
+            "_id": "page.staff--checkboxes--checkbox.auto_name__26--text.auto_name__27",
+            "_type": "text",
+            "hint": "Enter a short description here, you will be able to enter more details on the next page",
+            "label": "What else do you want to tell us about the staff?",
+            "name": "auto_name__27"
+          },
+          "label": "Other",
+          "name": "auto_name__26"
+        }
+      ],
+      "legend": "Tell us more about the staff at the court"
+    }
+  ],
+  "enableSteps": true,
+  "show": {
+    "identifier": "auto_name__11",
+    "operator": "defined"
+  },
+  "steps": [
+    "page.staff-details"
+  ],
+  "url": "staff"
+}

@@ -2,7 +2,7 @@
   "_id": "page.goodbye",
   "_type": "page.confirmation",
   "heading": "Thank you",
-  "lede": "You've helped us to improve our service.\r\n\r\nYour answers won't affect your case.\r\n\r\nThey won't be shared with anyone involved in your case. ",
+  "lede": "You've helped us to improve our service\r\n\r\nYour answers won't affect your case",
   "show": {
     "identifier": "auto_name__8",
     "operator": "defined"
