@@ -4,29 +4,41 @@
   "actionType": "continue",
   "components": [
     {
-      "_id": "page.select-court--select.auto_name__2",
-      "_type": "select",
+      "_id": "page.select-court--radios.auto_name__2",
+      "_type": "radios",
       "items": [
         {
-          "_id": "page.select-court--select.auto_name__2--option",
-          "_type": "option",
-          "text": "Basildon Crown Court",
-          "value": "basildon"
+          "_id": "page.select-court--radios.auto_name__2--radio.auto_value__13",
+          "_type": "radio",
+          "label": "Court 1 name",
+          "value": "auto_value__13"
         },
         {
-          "_id": "page.select-court--select.auto_name__2--option--2",
-          "_type": "option",
-          "text": "London Central Court",
-          "value": "london-central-court"
+          "_id": "page.select-court--radios.auto_name__2--radio.auto_value__13--2",
+          "_type": "radio",
+          "label": "Court 2 name",
+          "value": "auto_value__13"
         },
         {
-          "_id": "page.select-court--select.auto_name__2--option--3",
-          "_type": "option",
-          "text": "Reading magistrates court",
-          "value": "reading-magistrates-court"
+          "_id": "page.select-court--radios.auto_name__2--radio.auto_value__13--3",
+          "_type": "radio",
+          "label": "Court 3 name",
+          "value": "auto_value__13"
+        },
+        {
+          "_id": "page.select-court--radios.auto_name__2--radio.auto_value__13--4",
+          "_type": "radio",
+          "label": "Court 4 name",
+          "value": "auto_value__13"
+        },
+        {
+          "_id": "page.select-court--radios.auto_name__2--radio.auto_value__13--5",
+          "_type": "radio",
+          "label": "Court 5 name",
+          "value": "auto_value__13"
         }
       ],
-      "label": "Select the court you would like to tell us about",
+      "legend": "Select the court you would like to tell us about",
       "name": "auto_name__2"
     }
   ],
