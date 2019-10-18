@@ -4,6 +4,7 @@
   "components": [
     {
       "_id": "page.response-required--radios.auto_name__4",
+      "_isa": "radios.yes-no",
       "_type": "radios",
       "items": [
         {

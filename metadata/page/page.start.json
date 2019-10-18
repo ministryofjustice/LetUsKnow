@@ -6,6 +6,7 @@
   "steps": [
     "page.select-court",
     "page.select-topic",
+    "page.more-selections",
     "page.more-information",
     "page.user-type--2",
     "page.response-required",
