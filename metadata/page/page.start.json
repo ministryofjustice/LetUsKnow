@@ -6,6 +6,11 @@
   "steps": [
     "page.select-court",
     "page.select-topic",
+    "page.facilities-buildings",
+    "page.your-experience",
+    "page.staff",
+    "page.security",
+    "page.information-guidance",
     "page.more-information",
     "page.user-type--2",
     "page.response-required",

@@ -2,7 +2,7 @@
   "_id": "page.optic-complaint",
   "_type": "page.exit",
   "body": "Make a complaint using our [online form](https://complain-about-a-court-or-tribunal.form.service.justice.gov.uk/). You should normally receive a response within 10 working days.",
-  "heading": "Making a formal complaint old",
+  "heading": "Making a formal complaint",
   "show": {
     "identifier": "auto_name__5",
     "operator": "is",

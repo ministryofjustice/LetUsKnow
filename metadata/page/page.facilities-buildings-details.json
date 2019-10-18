@@ -1,0 +1,17 @@
+{
+  "_id": "page.facilities-buildings-details",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.facilities-buildings-details--textarea.auto_name__34",
+      "_type": "textarea",
+      "hint": "Optional",
+      "label": "Tell us some more details about the court facilities and buildings",
+      "name": "auto_name__34",
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "url": "facilities-buildings-details"
+}

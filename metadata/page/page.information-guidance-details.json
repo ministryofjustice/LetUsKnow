@@ -1,0 +1,17 @@
+{
+  "_id": "page.information-guidance-details",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.information-guidance-details--textarea.auto_name__47",
+      "_type": "textarea",
+      "hint": "Optional",
+      "label": "Tell us some more details about the information and guidance in court",
+      "name": "auto_name__47",
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "url": "information-guidance-details"
+}

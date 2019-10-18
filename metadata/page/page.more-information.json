@@ -10,5 +10,9 @@
       "name": "auto_name__1"
     }
   ],
+  "show": {
+    "identifier": "auto_name__14",
+    "operator": "defined"
+  },
   "url": "more-information"
 }
