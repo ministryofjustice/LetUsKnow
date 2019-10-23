@@ -9,6 +9,12 @@
       "hint": "For example, Barnet County Court",
       "items": [
         {
+          "_id": "court_code__default",
+          "_type": "option",
+          "text": "",
+          "value": "no-court-selected"
+        },
+        {
           "_id": "page.select-court--autocomplete.auto_name__2--option",
           "_type": "option",
           "text": "Reading Crown Court",

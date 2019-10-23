@@ -44,7 +44,7 @@
           "name": "auto_name__14"
         }
       ],
-      "legend": "Tell us about the court or tribunal",
+      "legend": "Tell us about the court",
       "validation": {
         "required": true
       }
