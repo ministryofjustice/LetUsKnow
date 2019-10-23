@@ -6,17 +6,13 @@
   "steps": [
     "page.select-court",
     "page.select-topic",
-    "page.facilities-buildings",
-    "page.your-experience",
-    "page.staff",
-    "page.security",
-    "page.information-guidance",
     "page.more-information",
     "page.user-type--2",
     "page.response-required",
-    "page.contact-details",
+    "page.contact-preference",
+    "page.email-address",
+    "page.phone-number--2",
     "page.formal-complaint",
-    "page.optic-complaint",
     "page.goodbye"
   ],
   "url": "/"

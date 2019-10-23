@@ -44,8 +44,11 @@
           "name": "auto_name__14"
         }
       ],
-      "legend": "Tell us about the court"
+      "legend": "Tell us about the court or tribunal",
+      "validation": {
+        "required": true
+      }
     }
   ],
-  "url": "select-topic-1"
+  "url": "select-topic"
 }

@@ -48,12 +48,7 @@
     }
   ],
   "enableSteps": true,
-  "show": {
-    "identifier": "auto_name__11",
-    "operator": "defined"
-  },
-  "steps": [
-    "page.staff-details"
-  ],
+  "show": false,
+  "steps": [],
   "url": "staff"
 }

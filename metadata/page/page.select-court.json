@@ -4,41 +4,42 @@
   "actionType": "continue",
   "components": [
     {
-      "_id": "page.select-court--radios.auto_name__2",
-      "_type": "radios",
+      "_id": "page.select-court--autocomplete.auto_name__2",
+      "_type": "autocomplete",
+      "hint": "For example, Barnet County Court",
       "items": [
         {
-          "_id": "page.select-court--radios.auto_name__2--radio.auto_value__13",
-          "_type": "radio",
-          "label": "Court 1 name",
-          "value": "auto_value__13"
+          "_id": "page.select-court--autocomplete.auto_name__2--option",
+          "_type": "option",
+          "text": "Reading Crown Court",
+          "value": "305"
         },
         {
-          "_id": "page.select-court--radios.auto_name__2--radio.auto_value__13--2",
-          "_type": "radio",
-          "label": "Court 2 name",
-          "value": "auto_value__13"
+          "_id": "page.select-court--autocomplete.auto_name__2--option--2",
+          "_type": "option",
+          "text": "Central London County Court",
+          "value": "372"
         },
         {
-          "_id": "page.select-court--radios.auto_name__2--radio.auto_value__13--3",
-          "_type": "radio",
-          "label": "Court 3 name",
-          "value": "auto_value__13"
+          "_id": "page.select-court--autocomplete.auto_name__2--option--3",
+          "_type": "option",
+          "text": "Barnet County Court",
+          "value": "117"
         },
         {
-          "_id": "page.select-court--radios.auto_name__2--radio.auto_value__13--4",
-          "_type": "radio",
-          "label": "Court 4 name",
-          "value": "auto_value__13"
+          "_id": "page.select-court--autocomplete.auto_name__2--option--4",
+          "_type": "option",
+          "text": "Gloucester Crown Court",
+          "value": "424"
         },
         {
-          "_id": "page.select-court--radios.auto_name__2--radio.auto_value__13--5",
-          "_type": "radio",
-          "label": "Court 5 name",
-          "value": "auto_value__13"
+          "_id": "page.select-court--autocomplete.auto_name__2--option--5",
+          "_type": "option",
+          "text": "Leicester County Court",
+          "value": "244"
         }
       ],
-      "legend": "Select the court you would like to tell us about",
+      "label": "Select the court you would like to tell us about",
       "name": "auto_name__2"
     }
   ],

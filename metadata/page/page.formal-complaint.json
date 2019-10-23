@@ -29,6 +29,10 @@
       "name": "auto_name__5"
     }
   ],
-  "show": true,
+  "show": {
+    "identifier": "auto_name__4",
+    "operator": "is",
+    "value": "auto_value__14"
+  },
   "url": "formal-complaint"
 }

@@ -49,12 +49,7 @@
     }
   ],
   "enableSteps": true,
-  "show": {
-    "identifier": "auto_name__10",
-    "operator": "defined"
-  },
-  "steps": [
-    "page.your-experience-details"
-  ],
+  "show": false,
+  "steps": [],
   "url": "your-experience"
 }

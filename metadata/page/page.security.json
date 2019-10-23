@@ -36,12 +36,7 @@
     }
   ],
   "enableSteps": true,
-  "show": {
-    "identifier": "auto_name__12",
-    "operator": "defined"
-  },
-  "steps": [
-    "page.security-details"
-  ],
+  "show": false,
+  "steps": [],
   "url": "security"
 }

@@ -57,12 +57,8 @@
     }
   ],
   "enableSteps": true,
-  "show": {
-    "identifier": "auto_name__9",
-    "operator": "defined"
-  },
-  "steps": [
-    "page.facilities-buildings-details"
-  ],
+  "show": false,
+  "showSteps": false,
+  "steps": [],
   "url": "facilities-buildings"
 }

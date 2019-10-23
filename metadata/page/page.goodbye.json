@@ -4,7 +4,7 @@
   "heading": "Thank you",
   "lede": "You've helped us to improve our service\r\n\r\nYour answers won't affect your case",
   "show": {
-    "identifier": "auto_name__8",
+    "identifier": "agree_to_contact",
     "operator": "defined"
   },
   "url": "thank-you"

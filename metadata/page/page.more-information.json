@@ -7,12 +7,12 @@
       "_type": "textarea",
       "hint": "Use this space to tell us about what we have done well and the things we can do better.",
       "label": "Tell us more about why you are contacting us",
-      "name": "auto_name__1"
+      "name": "auto_name__1",
+      "validation": {
+        "required": true
+      }
     }
   ],
-  "show": {
-    "identifier": "auto_name__14",
-    "operator": "defined"
-  },
+  "show": true,
   "url": "more-information"
 }
