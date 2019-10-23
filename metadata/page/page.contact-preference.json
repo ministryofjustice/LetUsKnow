@@ -23,5 +23,10 @@
       "name": "auto_name__48"
     }
   ],
+  "show": {
+    "identifier": "auto_name__4",
+    "operator": "is",
+    "value": "auto_value__13"
+  },
   "url": "contact-preference"
 }
