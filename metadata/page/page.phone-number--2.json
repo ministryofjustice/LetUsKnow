@@ -10,6 +10,7 @@
       "name": "auto_name__8"
     }
   ],
+  "namespace": "phone_number",
   "show": {
     "identifier": "auto_name__48",
     "operator": "is",

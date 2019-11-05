@@ -13,6 +13,7 @@
       }
     }
   ],
+  "namespace": "details",
   "show": true,
   "url": "more-information"
 }

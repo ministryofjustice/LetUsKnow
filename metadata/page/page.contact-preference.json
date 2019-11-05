@@ -23,6 +23,7 @@
       "name": "auto_name__48"
     }
   ],
+  "namespace": "contact_method",
   "show": {
     "identifier": "auto_name__4",
     "operator": "is",

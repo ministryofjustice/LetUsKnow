@@ -49,5 +49,6 @@
       "name": "auto_name__2"
     }
   ],
+  "namespace": "court_name",
   "url": "select-court"
 }
