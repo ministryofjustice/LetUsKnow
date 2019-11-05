@@ -1,8 +1,8 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "We welcome comments from everyone about how we are doing. If you have something to say about one of our courts this is the place to do it.  \r\n\r\nAnything you tell us will not affect your case and your comments won't be shared with anyone involved in your case.",
-  "heading": "Contact us about your experience",
+  "body": "We welcome comments about how we are doing. If you want to tell us something about one of our courts, you can do it here.\r\n\r\nAnything you tell us will not affect any case you may be involved in and your comments will not be shared with anyone involved in your case.",
+  "heading": "Contact us about your court experience",
   "steps": [
     "page.select-court",
     "page.select-topic",

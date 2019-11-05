@@ -8,43 +8,58 @@
       "hint": "Select all that apply",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__9",
           "_type": "checkbox",
           "label": "Facilities and buildings",
           "name": "auto_name__9"
         },
         {
-          "_id": "page.select-topic--checkboxes--checkbox.auto_name__10",
-          "_type": "checkbox",
-          "label": "Your experience",
-          "name": "auto_name__10"
-        },
-        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__11",
           "_type": "checkbox",
           "label": "Staff",
           "name": "auto_name__11"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__12",
           "_type": "checkbox",
           "label": "Security",
           "name": "auto_name__12"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__13",
           "_type": "checkbox",
           "label": "Information and guidance",
           "name": "auto_name__13"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__14",
           "_type": "checkbox",
+          "conditionalComponent": {
+            "_id": "page.select-topic--checkboxes--checkbox.auto_name__14--text.auto_name__6",
+            "_type": "text",
+            "label": "Enter the area you want to comment on",
+            "name": "auto_name__6"
+          },
           "label": "Other",
           "name": "auto_name__14"
         }
       ],
-      "legend": "Tell us about the court",
+      "legend": "Choose the area you want to comment on",
       "validation": {
         "required": true
       }

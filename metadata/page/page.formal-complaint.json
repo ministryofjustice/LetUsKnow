@@ -13,7 +13,7 @@
           "conditionalComponent": {
             "_id": "page.formal-complaint--radios.auto_name__5--radio.auto_value__15--inset",
             "_type": "inset",
-            "html": "Make a complaint using our [online form](https://complain-about-a-court-or-tribunal.form.service.justice.gov.uk/). You should normally receive a response within 10 working days."
+            "html": "Make a complaint using our [online form](https://complain-about-a-court-or-tribunal.form.service.justice.gov.uk/). You should receive a response within 10 working days."
           },
           "label": "Yes",
           "value": "auto_value__15"
@@ -25,7 +25,7 @@
           "value": "auto_value__16"
         }
       ],
-      "legend": "If you are unhappy with our service you can raise a formal compaint",
+      "legend": "If you are unhappy with our service you can raise a formal complaint",
       "name": "auto_name__5"
     }
   ],

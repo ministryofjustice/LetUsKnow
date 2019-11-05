@@ -6,7 +6,7 @@
     {
       "_id": "page.select-court--autocomplete.auto_name__2",
       "_type": "autocomplete",
-      "hint": "For example, Barnet County Court",
+      "hint": "Type the court name - for example, Barnet County Court - and choose from the list that appears",
       "items": [
         {
           "_id": "court_code__default",
@@ -45,7 +45,7 @@
           "value": "244"
         }
       ],
-      "label": "Select the court you would like to tell us about",
+      "label": "Which court you would like to tell us about?",
       "name": "auto_name__2"
     }
   ],
