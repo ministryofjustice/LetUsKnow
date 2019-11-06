@@ -78,6 +78,16 @@
         {
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__12",
           "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__12--text.auto_name__10",
+            "_type": "text",
+            "hint": "Enter another capacity if it is not listed above",
+            "label": "The reason you came to court",
+            "name": "auto_name__10",
+            "validation": {
+              "required": false
+            }
+          },
           "label": "Other",
           "value": "auto_value__12"
         }

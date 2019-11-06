@@ -49,6 +49,17 @@
           "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__14",
           "_type": "checkbox",
+          "conditionalComponent": {
+            "_id": "page.select-topic--checkboxes--checkbox.auto_name__14--text.auto_name__6",
+            "_type": "text",
+            "hint": "Enter a short summary, there is space on the next page for more detail",
+            "label": "The other area you want to comment on",
+            "name": "auto_name__6",
+            "namespace": "other-area-details",
+            "validation": {
+              "required": false
+            }
+          },
           "label": "Other",
           "name": "auto_name__14"
         }
