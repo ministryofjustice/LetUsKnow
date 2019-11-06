@@ -49,12 +49,6 @@
           "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__14",
           "_type": "checkbox",
-          "conditionalComponent": {
-            "_id": "page.select-topic--checkboxes--checkbox.auto_name__14--text.auto_name__6",
-            "_type": "text",
-            "label": "Enter the area you want to comment on",
-            "name": "auto_name__6"
-          },
           "label": "Other",
           "name": "auto_name__14"
         }
