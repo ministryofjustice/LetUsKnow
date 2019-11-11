@@ -2,16 +2,7 @@ node_modules
 .DS_Store
 package.json
 package-lock.json
-page.facilities-buildings-details.json
-page.facilities-buildings.json
-page.information-guidance-details.json
-page.information-guidance.json
-page.security-details.json
-page.security.json
-page.staff-details.json
-page.staff.json
-page.your-experience-details.json
-page.your-experience.json
+
 
 
 
