@@ -47,10 +47,10 @@
       ],
       "label": "Which court you would like to tell us about?",
       "name": "auto_name__2",
-      "namespace": "court_selected_name",
+      "namespace": "courtselectedname",
       "showAllValues": false
     }
   ],
-  "namespace": "court_name",
+  "namespace": "courtname",
   "url": "select-court"
 }

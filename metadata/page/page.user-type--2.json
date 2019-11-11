@@ -34,7 +34,7 @@
           "_type": "radio",
           "hint": "Giving feedback on behalf of my client",
           "label": "Legal representative",
-          "namespace": "legal_rep",
+          "namespace": "legalrep",
           "value": "auto_value__3"
         },
         {
@@ -45,7 +45,7 @@
           "_type": "radio",
           "hint": "Giving my own feedback",
           "label": "Professional user (e.g. Barrister)",
-          "namespace": "prof_user",
+          "namespace": "profuser",
           "value": "auto_value__9"
         },
         {
@@ -55,7 +55,7 @@
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__5",
           "_type": "radio",
           "label": "Third party support organisation",
-          "namespace": "third_party",
+          "namespace": "thirdparty",
           "value": "auto_value__5"
         },
         {
@@ -65,7 +65,7 @@
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__4",
           "_type": "radio",
           "label": "Member of the public not involved in a case",
-          "namespace": "member_of_public",
+          "namespace": "memberofpublic",
           "value": "auto_value__4"
         },
         {
@@ -83,7 +83,7 @@
             "_type": "text",
             "label": "Enter why you came to court",
             "name": "auto_name__10",
-            "namespace": "other_why_came_text",
+            "namespace": "otherwhycametext",
             "validation": {
               "required": false
             }
@@ -95,9 +95,9 @@
       ],
       "legend": "Why did you come to court?",
       "name": "auto_name__3",
-      "namespace": "why_come_to_court_radio"
+      "namespace": "whycometocourtradio"
     }
   ],
-  "namespace": "why_come_to_court",
+  "namespace": "whycometocourt",
   "url": "user-type"
 }

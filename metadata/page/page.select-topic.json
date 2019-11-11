@@ -15,7 +15,7 @@
           "_type": "checkbox",
           "label": "Facilities and buildings",
           "name": "auto_name__9",
-          "namespace": "facilities_buildings"
+          "namespace": "facilitiesbuildings"
         },
         {
           "$component": true,
@@ -45,7 +45,7 @@
           "_type": "checkbox",
           "label": "Information and guidance",
           "name": "auto_name__13",
-          "namespace": "information_guidance"
+          "namespace": "informationguidance"
         },
         {
           "$component": true,
@@ -59,7 +59,7 @@
             "hint": "Enter a short summary, there is space on the next page for more detail",
             "label": "Any other area you want to comment on",
             "name": "auto_name__6",
-            "namespace": "other_area_comment_text",
+            "namespace": "otherareacommenttext",
             "validation": {
               "required": false
             }
@@ -70,12 +70,12 @@
         }
       ],
       "legend": "Choose the area you want to comment on",
-      "namespace": "area_to_comment_on_checkbox",
+      "namespace": "areatocommentoncheckbox",
       "validation": {
         "required": true
       }
     }
   ],
-  "namespace": "area_to_comment_on",
+  "namespace": "areatocommenton",
   "url": "select-topic"
 }

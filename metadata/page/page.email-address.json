@@ -10,7 +10,7 @@
       "name": "auto_name__7"
     }
   ],
-  "namespace": "email_address",
+  "namespace": "emailaddress",
   "show": {
     "identifier": "auto_name__48",
     "operator": "is",
