@@ -14,8 +14,7 @@
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__9",
           "_type": "checkbox",
           "label": "Facilities and buildings",
-          "name": "auto_name__9",
-          "namespace": "facilitiesbuildings"
+          "name": "auto_name__9"
         },
         {
           "$component": true,
@@ -24,8 +23,7 @@
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__11",
           "_type": "checkbox",
           "label": "Staff",
-          "name": "auto_name__11",
-          "namespace": "staff"
+          "name": "auto_name__11"
         },
         {
           "$component": true,
@@ -34,8 +32,7 @@
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__12",
           "_type": "checkbox",
           "label": "Security",
-          "name": "auto_name__12",
-          "namespace": "security"
+          "name": "auto_name__12"
         },
         {
           "$component": true,
@@ -44,8 +41,7 @@
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__13",
           "_type": "checkbox",
           "label": "Information and guidance",
-          "name": "auto_name__13",
-          "namespace": "informationguidance"
+          "name": "auto_name__13"
         },
         {
           "$component": true,
@@ -59,23 +55,19 @@
             "hint": "Enter a short summary, there is space on the next page for more detail",
             "label": "Any other area you want to comment on",
             "name": "auto_name__6",
-            "namespace": "otherareacommenttext",
             "validation": {
               "required": false
             }
           },
           "label": "Other",
-          "name": "auto_name__14",
-          "namespace": "other"
+          "name": "auto_name__14"
         }
       ],
       "legend": "Choose the area you want to comment on",
-      "namespace": "areatocommentoncheckbox",
       "validation": {
         "required": true
       }
     }
   ],
-  "namespace": "areatocommenton",
   "url": "select-topic"
 }
