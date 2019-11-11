@@ -1,0 +1,81 @@
+{
+  "_id": "page.select-topic",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.select-topic--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select all that apply",
+      "items": [
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.select-topic--checkboxes--checkbox.auto_name__9",
+          "_type": "checkbox",
+          "label": "Facilities and buildings",
+          "name": "auto_name__9",
+          "namespace": "facilities_buildings"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.select-topic--checkboxes--checkbox.auto_name__11",
+          "_type": "checkbox",
+          "label": "Staff",
+          "name": "auto_name__11",
+          "namespace": "staff"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.select-topic--checkboxes--checkbox.auto_name__12",
+          "_type": "checkbox",
+          "label": "Security",
+          "name": "auto_name__12",
+          "namespace": "security"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.select-topic--checkboxes--checkbox.auto_name__13",
+          "_type": "checkbox",
+          "label": "Information and guidance",
+          "name": "auto_name__13",
+          "namespace": "information_guidance"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.select-topic--checkboxes--checkbox.auto_name__14",
+          "_type": "checkbox",
+          "conditionalComponent": {
+            "_id": "page.select-topic--checkboxes--checkbox.auto_name__14--text.auto_name__6",
+            "_type": "text",
+            "hint": "Enter a short summary, there is space on the next page for more detail",
+            "label": "Any other area you want to comment on",
+            "name": "auto_name__6",
+            "namespace": "other_area_comment_text",
+            "validation": {
+              "required": false
+            }
+          },
+          "label": "Other",
+          "name": "auto_name__14",
+          "namespace": "other"
+        }
+      ],
+      "legend": "Choose the area you want to comment on",
+      "namespace": "area_to_comment_on_checkbox",
+      "validation": {
+        "required": true
+      }
+    }
+  ],
+  "namespace": "area_to_comment_on",
+  "url": "select-topic"
+}

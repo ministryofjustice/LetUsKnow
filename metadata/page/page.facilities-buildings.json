@@ -1,0 +1,64 @@
+{
+  "_id": "page.facilities-buildings",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.facilities-buildings--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select all that apply",
+      "items": [
+        {
+          "_id": "page.facilities-buildings--checkboxes--checkbox.auto_name__15",
+          "_type": "checkbox",
+          "hint": "e.g. stairs, lifts and doors",
+          "label": "Access to the building",
+          "name": "auto_name__15"
+        },
+        {
+          "_id": "page.facilities-buildings--checkboxes--checkbox.auto_name__16",
+          "_type": "checkbox",
+          "hint": "e.g. seating, lights, heating and air conditioning",
+          "label": "The court environment",
+          "name": "auto_name__16"
+        },
+        {
+          "_id": "page.facilities-buildings--checkboxes--checkbox.auto_name__17",
+          "_type": "checkbox",
+          "hint": "e.g. toilets, water coolers and vending machines",
+          "label": "Your comfort",
+          "name": "auto_name__17"
+        },
+        {
+          "_id": "page.facilities-buildings--checkboxes--checkbox.auto_name__18",
+          "_type": "checkbox",
+          "hint": "e.g. if something isn't working properly",
+          "label": "General maintenance",
+          "name": "auto_name__18"
+        },
+        {
+          "_id": "page.facilities-buildings--checkboxes--checkbox.auto_name__19",
+          "_type": "checkbox",
+          "conditionalComponent": {
+            "_id": "page.facilities-buildings--checkboxes--checkbox.auto_name__19--text.auto_name__20",
+            "_type": "text",
+            "hint": "Enter a short description here, you will be able to enter more details on the next page",
+            "label": "What else do you want to tell us about?",
+            "name": "auto_name__20",
+            "show": {
+              "identifier": "auto_name__14",
+              "operator": "defined"
+            }
+          },
+          "label": "Other",
+          "name": "auto_name__19"
+        }
+      ],
+      "legend": "Tell us more about the facilities and buildings at the court"
+    }
+  ],
+  "enableSteps": true,
+  "show": false,
+  "showSteps": false,
+  "steps": [],
+  "url": "facilities-buildings"
+}
