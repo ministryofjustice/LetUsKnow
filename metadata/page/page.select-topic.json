@@ -18,7 +18,7 @@
           "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__9",
           "_type": "checkbox",
-          "hint": "for example, the toilets, heating, wifi or disabled access",
+          "hint": "For example, the toilets, heating, wifi or disabled access.",
           "label": "Facilities",
           "name": "auto_name__9"
         },
@@ -28,7 +28,7 @@
           "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__11",
           "_type": "checkbox",
-          "hint": "were they helpful, polite and respectful?",
+          "hint": "Were they helpful, polite and respectful?",
           "label": "Staff",
           "name": "auto_name__11"
         },
@@ -38,7 +38,7 @@
           "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__12",
           "_type": "checkbox",
-          "hint": "how were you treated at main security, did you feel safe in the building? ",
+          "hint": "How were you treated at main security, did you feel safe in the building? ",
           "label": "Security and safety",
           "name": "auto_name__12"
         },
@@ -48,7 +48,7 @@
           "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__13",
           "_type": "checkbox",
-          "hint": "for example, signs, maps and leaflets",
+          "hint": "For example, signs, maps and leaflets.",
           "label": "Information and guidance",
           "name": "auto_name__13"
         },

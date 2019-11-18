@@ -20,7 +20,7 @@
             "_type": "email",
             "errors": {
               "required": {
-                "any": "Error:Enter an email address in the correct format, like name@example.com"
+                "any": "Enter an email address in the correct format, like name@example.com."
               }
             },
             "hint": "We’ll only use your email address to reply to you.",

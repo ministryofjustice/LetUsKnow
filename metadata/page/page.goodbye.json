@@ -2,7 +2,7 @@
   "_id": "page.goodbye",
   "_type": "page.confirmation",
   "heading": "Thank you",
-  "lede": "You've helped us to improve our service\r\n\r\nYour answers won't affect any \r\n\r\ncase you may be involved in",
+  "lede": "Your feedback will help us improve our service for everyone. \r\n\r\nThis will not affect any case you are involved in.",
   "show": {
     "identifier": "agree_to_contact",
     "operator": "defined"
