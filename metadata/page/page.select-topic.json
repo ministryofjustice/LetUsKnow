@@ -5,6 +5,11 @@
     {
       "_id": "page.select-topic--checkboxes",
       "_type": "checkboxes",
+      "errors": {
+        "required": {
+          "any": "Select at least one option"
+        }
+      },
       "hint": "Select all that apply",
       "items": [
         {
@@ -13,7 +18,8 @@
           "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__9",
           "_type": "checkbox",
-          "label": "Facilities and buildings",
+          "hint": "for example, the toilets, heating, wifi or disabled access",
+          "label": "Facilities",
           "name": "auto_name__9"
         },
         {
@@ -22,6 +28,7 @@
           "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__11",
           "_type": "checkbox",
+          "hint": "were they helpful, polite and respectful?",
           "label": "Staff",
           "name": "auto_name__11"
         },
@@ -31,7 +38,8 @@
           "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__12",
           "_type": "checkbox",
-          "label": "Security",
+          "hint": "how were you treated at main security, did you feel safe in the building? ",
+          "label": "Security and safety",
           "name": "auto_name__12"
         },
         {
@@ -40,6 +48,7 @@
           "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__13",
           "_type": "checkbox",
+          "hint": "for example, signs, maps and leaflets",
           "label": "Information and guidance",
           "name": "auto_name__13"
         },
@@ -49,21 +58,12 @@
           "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__14",
           "_type": "checkbox",
-          "conditionalComponent": {
-            "_id": "page.select-topic--checkboxes--checkbox.auto_name__14--text.auto_name__6",
-            "_type": "text",
-            "hint": "Enter a short summary, there is space on the next page for more detail",
-            "label": "Any other area you want to comment on",
-            "name": "auto_name__6",
-            "validation": {
-              "required": false
-            }
-          },
-          "label": "Other",
+          "label": "Something else",
           "name": "auto_name__14"
         }
       ],
-      "legend": "Choose the area you want to comment on",
+      "legend": "What do you want to tell us about?",
+      "legendSummary": "Subject",
       "validation": {
         "required": true
       }

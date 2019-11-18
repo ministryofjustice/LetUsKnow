@@ -5,6 +5,11 @@
     {
       "_id": "page.user-type--2--radios.auto_name__3",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "any": "Select an option"
+        }
+      },
       "items": [
         {
           "$component": true,
@@ -12,7 +17,7 @@
           "$option": true,
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__1",
           "_type": "radio",
-          "label": "Appellant / applicant / claimant",
+          "label": "I'm an appellant, applicant or claimant",
           "value": "auto_value__1"
         },
         {
@@ -21,28 +26,8 @@
           "$option": true,
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__2",
           "_type": "radio",
-          "label": "Defendant / respondent",
+          "label": "I'm a defendant or respondent",
           "value": "auto_value__2"
-        },
-        {
-          "$component": true,
-          "$definition": true,
-          "$option": true,
-          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__3",
-          "_type": "radio",
-          "hint": "Giving feedback on behalf of my client",
-          "label": "Legal representative",
-          "value": "auto_value__3"
-        },
-        {
-          "$component": true,
-          "$definition": true,
-          "$option": true,
-          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__9",
-          "_type": "radio",
-          "hint": "Giving my own feedback",
-          "label": "Professional user (e.g. Barrister)",
-          "value": "auto_value__9"
         },
         {
           "$component": true,
@@ -50,8 +35,23 @@
           "$option": true,
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__5",
           "_type": "radio",
-          "label": "Third party support organisation",
+          "label": "I'm a witness or expert witness",
           "value": "auto_value__5"
+        },
+        {
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__7",
+          "_type": "radio",
+          "label": "I'm doing jury service",
+          "value": "auto_value__7"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__3",
+          "_type": "radio",
+          "label": "I'm a legal professional",
+          "value": "auto_value__3"
         },
         {
           "$component": true,
@@ -59,8 +59,14 @@
           "$option": true,
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__4",
           "_type": "radio",
-          "label": "Member of the public not involved in a case",
+          "label": "I’m a friend or relative of someone involved in the case",
           "value": "auto_value__4"
+        },
+        {
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__6",
+          "_type": "radio",
+          "label": "I work there",
+          "value": "auto_value__6"
         },
         {
           "$component": true,
@@ -68,24 +74,12 @@
           "$option": true,
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__12",
           "_type": "radio",
-          "conditionalComponent": {
-            "$component": true,
-            "$control": true,
-            "$definition": true,
-            "$field": true,
-            "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__12--text.auto_name__10",
-            "_type": "text",
-            "label": "Enter why you came to court",
-            "name": "auto_name__10",
-            "validation": {
-              "required": false
-            }
-          },
-          "label": "Other",
+          "label": "Another reason",
           "value": "auto_value__12"
         }
       ],
-      "legend": "Why did you come to court?",
+      "legend": "Why were you at the court?",
+      "legendSummary": "Why did you come to court?",
       "name": "auto_name__3"
     }
   ],

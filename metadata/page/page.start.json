@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "We welcome comments about how we are doing. If you want to tell us something about one of our courts, you can do it here.\r\n\r\nAnything you tell us will not affect any case you may be involved in and your comments will not be shared with anyone involved in your case.",
+  "body": "We’d like to know what you thought about your recent court visit – tell us about any problems you had, and to suggest how we could improve things. This will help us make our courts better for everyone. \r\n\r\nFor example, you may want to let us know about:\r\n\r\n* how you were treated by staff\r\n* whether you felt safe and secure\r\n* the facilities – like the toilets, changing facilities, food and drink\r\n* how easy it was to find your way around\r\n\r\nYour feedback will not affect your case. If you’re happy to leave your contact details, we’ll get back to you to discuss the problem you’ve told us about. You don’t have to leave your details if you don’t want to. \r\n\r\nFor serious problems you can make a \r\n[complaint online.](https://complain-about-a-court-or-tribunal.form.service.justice.gov.uk/)",
   "heading": "Contact us about your court experience",
   "steps": [
     "page.select-court",
@@ -9,10 +9,6 @@
     "page.more-information",
     "page.user-type--2",
     "page.response-required",
-    "page.contact-preference",
-    "page.email-address",
-    "page.phone-number--2",
-    "page.formal-complaint",
     "page.check-your-answers",
     "page.goodbye"
   ],

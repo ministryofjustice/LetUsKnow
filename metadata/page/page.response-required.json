@@ -6,10 +6,28 @@
       "_id": "page.response-required--radios.auto_name__4",
       "_isa": "radios.yes-no",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "any": "Select yes if you want a response from us"
+        }
+      },
       "items": [
         {
           "_id": "page.response-required--radios.auto_name__4--radio.auto_value__13",
           "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.response-required--radios.auto_name__4--radio.auto_value__13--email.auto_name__10",
+            "_type": "email",
+            "errors": {
+              "required": {
+                "any": "Error:Enter an email address in the correct format, like name@example.com"
+              }
+            },
+            "hint": "We’ll only use your email address to reply to you.",
+            "label": "Your email address",
+            "labelSummary": "Email address",
+            "name": "auto_name__10"
+          },
           "label": "Yes",
           "value": "auto_value__13"
         },
@@ -20,7 +38,8 @@
           "value": "auto_value__14"
         }
       ],
-      "legend": "Do you want a response from us?",
+      "legend": "Do you want us to respond to your comments?",
+      "legendSummary": "Do you want us to reply?",
       "name": "auto_name__4"
     }
   ],
