@@ -12,6 +12,7 @@
           "any": "You must choose a location"
         }
       },
+      "hint": "For example, Harrow Crown Court",
       "items": [
         {
           "_id": "page.select-court--autocomplete.auto_name__2--option--5",

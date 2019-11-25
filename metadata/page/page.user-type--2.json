@@ -59,6 +59,12 @@
           "$option": true,
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__12",
           "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__12--text.auto_name__6",
+            "_type": "text",
+            "label": "Enter another reason",
+            "name": "auto_name__6"
+          },
           "label": "Another reason",
           "value": "auto_value__12"
         }
