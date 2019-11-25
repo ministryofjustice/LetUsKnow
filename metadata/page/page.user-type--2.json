@@ -15,34 +15,34 @@
           "$component": true,
           "$definition": true,
           "$option": true,
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__5",
+          "_type": "radio",
+          "label": "I'm a witness",
+          "value": "auto_value__5"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__7",
+          "_type": "radio",
+          "label": "I'm doing jury service",
+          "value": "auto_value__7"
+        },
+        {
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__1",
           "_type": "radio",
-          "label": "I'm an appellant, applicant or claimant",
+          "label": "I'm involved in a case",
           "value": "auto_value__1"
         },
         {
           "$component": true,
           "$definition": true,
           "$option": true,
-          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__2",
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__4",
           "_type": "radio",
-          "label": "I'm a defendant or respondent",
-          "value": "auto_value__2"
-        },
-        {
-          "$component": true,
-          "$definition": true,
-          "$option": true,
-          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__5",
-          "_type": "radio",
-          "label": "I'm a witness or expert witness",
-          "value": "auto_value__5"
-        },
-        {
-          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__7",
-          "_type": "radio",
-          "label": "I'm doing jury service",
-          "value": "auto_value__7"
+          "label": "I’m with someone who’s involved in a case",
+          "value": "auto_value__4"
         },
         {
           "$component": true,
@@ -52,21 +52,6 @@
           "_type": "radio",
           "label": "I'm a legal professional",
           "value": "auto_value__3"
-        },
-        {
-          "$component": true,
-          "$definition": true,
-          "$option": true,
-          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__4",
-          "_type": "radio",
-          "label": "I’m a friend or relative of someone involved in the case",
-          "value": "auto_value__4"
-        },
-        {
-          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__6",
-          "_type": "radio",
-          "label": "I work there",
-          "value": "auto_value__6"
         },
         {
           "$component": true,

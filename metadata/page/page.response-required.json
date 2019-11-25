@@ -11,6 +11,7 @@
           "any": "Select yes if you want a response from us"
         }
       },
+      "hint": "We’ll read all feedback, but you’ll need to provide an email address if you want us to reply.",
       "items": [
         {
           "_id": "page.response-required--radios.auto_name__4--radio.auto_value__13",
@@ -38,7 +39,7 @@
           "value": "auto_value__14"
         }
       ],
-      "legend": "Do you want us to respond to your comments?",
+      "legend": "Would you like us to respond to your comments?",
       "legendSummary": "Do you want us to reply?",
       "name": "auto_name__4"
     }
