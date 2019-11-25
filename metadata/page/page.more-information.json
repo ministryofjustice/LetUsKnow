@@ -10,7 +10,7 @@
           "any": "Enter your feedback"
         }
       },
-      "hint": "Tell us what went wrong and who you spoke to. The more details you can give, the better.",
+      "hint": "Were you able to speak to anyone at court, and could they help? The more details you can give, the better.",
       "label": "What happened?",
       "labelSummary": "Your comments",
       "name": "auto_name__1",
