@@ -15,49 +15,50 @@
       "hint": "For example, Harrow Crown Court",
       "items": [
         {
-          "_id": "page.select-court--autocomplete.auto_name__2--option--5",
+          "_id": "court_code__default",
           "_type": "option",
-          "text": "Croydon Employment Tribunal",
-          "value": "972"
+          "text": "Select a court or tribunal",
+          "text:cy": "Rhowch enw llys neu dribiwnlys yn y blwch",
+          "value": ""
         },
         {
-          "_id": "page.select-court--autocomplete.auto_name__2--option--3",
+          "_id": "court_code_182",
           "_type": "option",
           "text": "Croydon County Court",
           "value": "182"
         },
         {
-          "_id": "page.select-court--autocomplete.auto_name__2--option--4",
+          "_id": "court_code_418",
           "_type": "option",
           "text": "Croydon Crown Court",
           "value": "418"
         },
         {
-          "_id": "page.select-court--autocomplete.auto_name__2--option--7",
+          "_id": "court_code_10111",
           "_type": "option",
           "text": "Croydon Magistrates' Court",
           "value": "10111"
         },
         {
-          "_id": "page.select-court--autocomplete.auto_name__2--option",
+          "_id": "court_code_468",
           "_type": "option",
           "text": "Harrow Crown Court",
           "value": "468"
         },
         {
-          "_id": "page.select-court--autocomplete.auto_name__2--option--8",
+          "_id": "court_code_240",
           "_type": "option",
           "text": "Kingston Upon Thames County Court",
           "value": "240"
         },
         {
-          "_id": "page.select-court--autocomplete.auto_name__2--option--9",
+          "_id": "court_code_427",
           "_type": "option",
           "text": "Kingston Upon Thames Crown Court",
           "value": "427"
         },
         {
-          "_id": "page.select-court--autocomplete.auto_name__2--option--2",
+          "_id": "court_code_453",
           "_type": "option",
           "text": "Snaresbrook Crown Court",
           "value": "453"
@@ -66,7 +67,7 @@
       "label": "Which court did you visit?",
       "labelSummary": "Court name",
       "name": "auto_name__2",
-      "showAllValues": true,
+      "showAllValues": false,
       "validation": {
         "required": true
       }
