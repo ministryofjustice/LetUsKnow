@@ -51,7 +51,6 @@ const processFile = async (file) => {
     _id: 'court_code__default',
     _type: 'option',
     text: 'Select a court or tribunal',
-    'text:cy': 'Rhowch enw llys neu dribiwnlys yn y blwch',
     value: ''
   })
 
