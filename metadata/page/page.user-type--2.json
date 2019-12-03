@@ -71,7 +71,7 @@
       ],
       "legend": "Why were you at the court?",
       "legendSummary": "Why did you come to court?",
-      "name": "auto_name__3"
+      "name": "user_type"
     }
   ],
   "url": "user-type"
