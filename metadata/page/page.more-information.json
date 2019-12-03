@@ -10,7 +10,7 @@
           "any": "Enter your feedback"
         }
       },
-      "hint": "Were you able to speak to anyone at court, and could they help? The more details you can give, the better.",
+      "hint": "This covers all the areas you’ve just highlighted. The more details you can give, the better.",
       "label": "What happened?",
       "labelSummary": "Your comments",
       "name": "auto_name__1",
