@@ -41,7 +41,7 @@
       ],
       "legend": "Would you like us to respond to your comments?",
       "legendSummary": "Do you want us to reply?",
-      "name": "auto_name__4"
+      "name": "want_reply"
     }
   ],
   "url": "response-required"
