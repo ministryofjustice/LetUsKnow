@@ -6,5 +6,6 @@
   "emailSubjectTeam": "Data from FixMyCourt",
   "name": "FixMyCourt",
   "pdfHeading": "Fix my court",
-  "phase": "beta"
+  "phase": "beta",
+  "phaseText": "This is a new service – your [feedback](mailto:user_experience_te@justice.gov.uk) will help us to improve it."
 }
