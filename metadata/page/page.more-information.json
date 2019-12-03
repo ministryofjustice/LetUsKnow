@@ -14,7 +14,7 @@
       "label": "Please give us more information",
       "labelSummary": "Your comments",
       "maxwords": 1000,
-      "name": "auto_name__1",
+      "name": "what_happened",
       "threshold": 90,
       "validation": {
         "required": true
