@@ -12,7 +12,7 @@
           "any": "You must choose a location"
         }
       },
-      "hint": "For example, Harrow Crown Court\r\n\r\nThis service is being tested in a few courts only. If your court is not featured, you can [use our complaint form.](https://complain-about-a-court-or-tribunal.form.service.justice.gov.uk/)",
+      "hint": "For example Harrow Crown Court.",
       "items": [
         {
           "_id": "court_code__default",
@@ -58,6 +58,13 @@
       "validation": {
         "required": true
       }
+    }
+  ],
+  "extraComponents": [
+    {
+      "_id": "page.select-court--content",
+      "_type": "content",
+      "html": "This service is being tested in a few courts only. If your court is not featured, you can use our [complaint form](https://complain-about-a-court-or-tribunal.form.service.justice.gov.uk/)."
     }
   ],
   "url": "select-court"

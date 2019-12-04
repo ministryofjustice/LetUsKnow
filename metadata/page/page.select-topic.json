@@ -28,7 +28,7 @@
           "$option": true,
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__11",
           "_type": "checkbox",
-          "hint": "Were they helpful, polite and respectful?",
+          "hint": "How did we do?",
           "label": "Staff",
           "name": "auto_name__11"
         },
