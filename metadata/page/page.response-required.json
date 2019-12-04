@@ -27,7 +27,7 @@
             "hint": "We’ll only use your email address to reply to you.",
             "label": "Your email address",
             "labelSummary": "Email address",
-            "name": "email"
+            "name": "email_address"
           },
           "label": "Yes",
           "value": "yes"
