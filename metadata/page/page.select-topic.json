@@ -20,8 +20,8 @@
           "_type": "checkbox",
           "hint": "For example, the toilets, heating, wifi or disabled access.",
           "label": "Facilities",
-          "name": "auto_name__9",
-          "value": "facilities"
+          "name": "facilities",
+          "value": "yes"
         },
         {
           "$component": true,
@@ -31,8 +31,8 @@
           "_type": "checkbox",
           "hint": "How did we do?",
           "label": "Staff",
-          "name": "auto_name__11",
-          "value": "staff"
+          "name": "staff",
+          "value": "yes"
         },
         {
           "$component": true,
@@ -42,8 +42,8 @@
           "_type": "checkbox",
           "hint": "How were you treated at main security, did you feel safe in the building? ",
           "label": "Security and safety",
-          "name": "auto_name__12",
-          "value": "security_and_safety"
+          "name": "security_and_safety",
+          "value": "yes"
         },
         {
           "$component": true,
@@ -53,8 +53,8 @@
           "_type": "checkbox",
           "hint": "For example, signs, maps and leaflets.",
           "label": "Information and guidance",
-          "name": "auto_name__13",
-          "value": "information_and_guidance"
+          "name": "information_and_guidance",
+          "value": "yes"
         },
         {
           "$component": true,
@@ -63,8 +63,8 @@
           "_id": "page.select-topic--checkboxes--checkbox.auto_name__14",
           "_type": "checkbox",
           "label": "Something else",
-          "name": "auto_name__14",
-          "value": "something_else"
+          "name": "something_else",
+          "value": "yes"
         }
       ],
       "legend": "What do you want to tell us about?",
