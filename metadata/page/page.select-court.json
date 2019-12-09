@@ -53,7 +53,7 @@
       ],
       "label": "Which court did you visit?",
       "labelSummary": "Court name",
-      "name": "auto_name__2",
+      "name": "court",
       "showAllValues": false,
       "validation": {
         "required": true
