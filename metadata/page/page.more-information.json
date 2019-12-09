@@ -13,7 +13,9 @@
       "hint": "This covers all the areas you’ve just highlighted. The more details you can give, the better.",
       "label": "Please give us more information",
       "labelSummary": "Your comments",
+      "maxwords": 1000,
       "name": "auto_name__1",
+      "threshold": 90,
       "validation": {
         "required": true
       }
