@@ -2,10 +2,7 @@
   "_id": "page.goodbye",
   "_type": "page.confirmation",
   "heading": "Thank you",
-  "lede": "Your feedback will help us improve our service for everyone. \r\n\r\nThis will not affect any case you are involved in.",
-  "show": {
-    "identifier": "agree_to_contact",
-    "operator": "defined"
-  },
+  "lede": "Your feedback will help us improve our service for everyone. \r\n\r\nThis will not affect any case you are involved in.\r\n\r\nIf you have asked us to reply, you can expect to hear from us within 2 weeks.",
+  "show": true,
   "url": "thank-you"
 }
