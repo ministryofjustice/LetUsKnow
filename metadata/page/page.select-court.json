@@ -24,31 +24,31 @@
           "_id": "court_code_182",
           "_type": "option",
           "text": "Croydon County Court and Family Court",
-          "value": "182"
+          "value": "Croydon-CCFC"
         },
         {
           "_id": "court_code_418",
           "_type": "option",
           "text": "Croydon Crown Court",
-          "value": "418"
+          "value": "Croydon-CrC"
         },
         {
           "_id": "court_code_468",
           "_type": "option",
           "text": "Harrow Crown Court",
-          "value": "468"
+          "value": "Harrow-CrC"
         },
         {
           "_id": "court_code_427",
           "_type": "option",
           "text": "Kingston Upon Thames Crown Court",
-          "value": "427"
+          "value": "Kingston-Upon_Thames-CrC"
         },
         {
           "_id": "court_code_453",
           "_type": "option",
           "text": "Snaresbrook Crown Court",
-          "value": "453"
+          "value": "Snaresbrook-CrC"
         }
       ],
       "label": "Which court did you visit?",
