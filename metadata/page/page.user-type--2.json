@@ -18,7 +18,7 @@
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__5",
           "_type": "radio",
           "label": "I'm a witness",
-          "value": "witness"
+          "value": "Witness"
         },
         {
           "$component": true,
@@ -27,13 +27,13 @@
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__7",
           "_type": "radio",
           "label": "I'm doing jury service",
-          "value": "jury"
+          "value": "Jury service"
         },
         {
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__1",
           "_type": "radio",
           "label": "I'm involved in a case",
-          "value": "auto_value__1"
+          "value": "Involved in a case"
         },
         {
           "$component": true,
@@ -42,7 +42,7 @@
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__4",
           "_type": "radio",
           "label": "I’m with someone who’s involved in a case",
-          "value": "case"
+          "value": "With someone involved in a case"
         },
         {
           "$component": true,
@@ -51,7 +51,7 @@
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__3",
           "_type": "radio",
           "label": "I'm a legal professional",
-          "value": "legal_professional"
+          "value": "Legal professional"
         },
         {
           "$component": true,
@@ -66,7 +66,7 @@
             "name": "another_reason"
           },
           "label": "Another reason",
-          "value": "another_reason"
+          "value": "Another reason"
         }
       ],
       "legend": "Why were you at the court?",
