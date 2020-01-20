@@ -55,6 +55,12 @@
           "_type": "option",
           "text": "Snaresbrook Crown Court",
           "value": "Snaresbrook-CrC"
+        },
+        {
+          "_id": "court_code_Thames-Mag",
+          "_type": "option",
+          "text": "Thames Magistrates' Court",
+          "value": "Thames-Mag"
         }
       ],
       "label": "Which court did you visit?",
