@@ -21,6 +21,12 @@
           "value": ""
         },
         {
+          "_id": "court_code_Alfred-Place_Trib",
+          "_type": "option",
+          "text": "Alfred Place Tribunals",
+          "value": "Alfred-Place_Trib"
+        },
+        {
           "_id": "court_code_Bromley-CrC",
           "_type": "option",
           "text": "Bromley Crown Court",
@@ -39,10 +45,34 @@
           "value": "Croydon-CrC"
         },
         {
+          "_id": "court_code_Croydon-ETrib",
+          "_type": "option",
+          "text": "Croydon Employment Tribunal",
+          "value": "Croydon-ETrib"
+        },
+        {
+          "_id": "court_code_Field-House-Trib",
+          "_type": "option",
+          "text": "Field House Tribunals",
+          "value": "Field-House-Trib"
+        },
+        {
           "_id": "court_code_Harrow-CrC",
           "_type": "option",
           "text": "Harrow Crown Court",
           "value": "Harrow-CrC"
+        },
+        {
+          "_id": "court_code_Hatton-Cross-Trib",
+          "_type": "option",
+          "text": "Hatton Cross Tribunals",
+          "value": "Hatton-Cross-Trib"
+        },
+        {
+          "_id": "court_code_East-London-Trib",
+          "_type": "option",
+          "text": "Import Building – East London Tribunals",
+          "value": "East-London-Trib"
         },
         {
           "_id": "court_code_Kingston-Upon-Thames-CrC",
