@@ -6,10 +6,10 @@
     "value": ""
   },
   {
-    "_id": "court_code_Alfred-Place_Trib",
+    "_id": "court_code_Alfred-Place-Trib",
     "_type": "option",
     "text": "Alfred Place Tribunals",
-    "value": "Alfred-Place_Trib"
+    "value": "Alfred-Place-Trib"
   },
   {
     "_id": "court_code_Bromley-CrC",
@@ -64,6 +64,12 @@
     "_type": "option",
     "text": "Kingston Upon Thames Crown Court",
     "value": "Kingston-Upon-Thames-CrC"
+  },
+  {
+    "_id": "court_code_Proposed_Description",
+    "_type": "option",
+    "text": "Notes",
+    "value": "Proposed Description"
   },
   {
     "_id": "court_code_Snaresbrook-CrC",
