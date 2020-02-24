@@ -71,20 +71,20 @@
         {
           "_id": "court_code_East-London-Trib",
           "_type": "option",
-          "text": "Import Building – East London Tribunals",
+          "text": "Import Building, East London Tribunals",
           "value": "East-London-Trib"
+        },
+        {
+          "_id": "court_code_Inner-London-CrC",
+          "_type": "option",
+          "text": "Inner London Crown Court",
+          "value": "Inner-London-CrC"
         },
         {
           "_id": "court_code_Kingston-Upon-Thames-CrC",
           "_type": "option",
           "text": "Kingston Upon Thames Crown Court",
           "value": "Kingston-Upon-Thames-CrC"
-        },
-        {
-          "_id": "court_code_Proposed_Description",
-          "_type": "option",
-          "text": "Notes",
-          "value": "Proposed Description"
         },
         {
           "_id": "court_code_Snaresbrook-CrC",
