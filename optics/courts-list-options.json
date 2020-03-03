@@ -12,10 +12,10 @@
     "value": "Alfred-Place-Trib"
   },
   {
-    "_id": "court_code_Bromley-CrC",
+    "_id": "court_code_Bromley-CFC",
     "_type": "option",
-    "text": "Bromley Crown Court",
-    "value": "Bromley-CrC"
+    "text": "Bromley Civil and Family Court",
+    "value": "Bromley-CFC"
   },
   {
     "_id": "court_code_Croydon-CCFC",
