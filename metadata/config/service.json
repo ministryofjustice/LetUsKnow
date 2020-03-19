@@ -3,9 +3,9 @@
   "_isa": "@ministryofjustice/fb-components-core=>service",
   "_type": "config.service",
   "attachUserSubmission": false,
-  "emailSubjectTeam": "Data from FixMyCourt",
-  "name": "FixMyCourt",
-  "pdfHeading": "Fix my court",
+  "emailSubjectTeam": "Data from LetUsKnow",
+  "name": "LetUsKnow",
+  "pdfHeading": "Let Us Know",
   "phase": "beta",
   "phaseText": "This is a pilot service – your [feedback](mailto:user_experience_te@justice.gov.uk) will help us to improve it."
 }

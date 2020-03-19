@@ -1,8 +1,8 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "We want to know about your experience at court – good and bad. You can tell us about any problems you had, areas for improvement and where we got it right.\r\n\r\nYou can leave your contact details, but you don’t have to. Your feedback will not affect a court case.\r\n\r\nFor serious problems you can [make a \r\ncomplaint online.](https://complain-about-a-court-or-tribunal.form.service.justice.gov.uk/)",
-  "heading": "Help us improve how courts work",
+  "body": "With concerns about the spread of the coronavirus, we are doing more to keep our courts cleaner.\r\n\r\nIf you see something that puts you or others at risk, tell us.",
+  "heading": "Let us know",
   "steps": [
     "page.select-court",
     "page.user-type--2",
