@@ -1,7 +1,23 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "With concerns about the spread of the coronavirus, we are doing more to keep our courts cleaner.\r\n\r\nIf you see something that puts you or others at risk, tell us.",
+  "body": "With concerns about the spread of the coronavirus, we are doing more to keep our courts cleaner.",
+  "components": [
+    {
+      "_id": "page.start--content",
+      "_type": "content",
+      "html": "If you see something that puts you or others at risk, tell us."
+    },
+    {
+      "_id": "page.start--content--2",
+      "_type": "content",
+      "html": "For serious problems you can [make a \r\ncomplaint online.](https://complain-about-a-court-or-tribunal.form.service.justice.gov.uk/)"
+    },
+    {
+      "_id": "page.start--inset",
+      "_type": "inset"
+    }
+  ],
   "heading": "Let us know",
   "steps": [
     "page.select-court",

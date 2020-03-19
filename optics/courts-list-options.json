@@ -42,48 +42,6 @@
     "value": "940"
   },
   {
-    "_id": "court_code_932",
-    "_type": "option",
-    "text": "Administrative Support Centre Leicestershire Charity",
-    "value": "932"
-  },
-  {
-    "_id": "court_code_934",
-    "_type": "option",
-    "text": "Administrative Support Centre Leicestershire Environment",
-    "value": "934"
-  },
-  {
-    "_id": "court_code_935",
-    "_type": "option",
-    "text": "Administrative Support Centre Leicestershire Estate Agents Appeals",
-    "value": "935"
-  },
-  {
-    "_id": "court_code_936",
-    "_type": "option",
-    "text": "Administrative Support Centre Leicestershire Gambling Appeals",
-    "value": "936"
-  },
-  {
-    "_id": "court_code_937",
-    "_type": "option",
-    "text": "Administrative Support Centre Leicestershire Gender Recognition",
-    "value": "937"
-  },
-  {
-    "_id": "court_code_938",
-    "_type": "option",
-    "text": "Administrative Support Centre Leicestershire Information Rights",
-    "value": "938"
-  },
-  {
-    "_id": "court_code_939",
-    "_type": "option",
-    "text": "Administrative Support Centre Leicestershire Mental Health",
-    "value": "939"
-  },
-  {
     "_id": "court_code_941",
     "_type": "option",
     "text": "Administrative Support Centre Leicestershire Social Security and Child Support Tribunal",
@@ -312,12 +270,6 @@
     "value": "127"
   },
   {
-    "_id": "court_code_779434",
-    "_type": "option",
-    "text": "Birmingham Courts and Tribunal Service Centre",
-    "value": "779434"
-  },
-  {
     "_id": "court_code_404",
     "_type": "option",
     "text": "Birmingham Crown Court",
@@ -442,12 +394,6 @@
     "_type": "option",
     "text": "Bradford Crown Court",
     "value": "402"
-  },
-  {
-    "_id": "court_code_995",
-    "_type": "option",
-    "text": "Bradford Direct Lodgement Centre",
-    "value": "995"
   },
   {
     "_id": "court_code_10056",
@@ -666,12 +612,6 @@
     "value": "920"
   },
   {
-    "_id": "court_code_908",
-    "_type": "option",
-    "text": "Care Standards",
-    "value": "908"
-  },
-  {
     "_id": "court_code_165",
     "_type": "option",
     "text": "Carlisle County Court",
@@ -828,12 +768,6 @@
     "value": "609"
   },
   {
-    "_id": "court_code_990",
-    "_type": "option",
-    "text": "Claims Management Services",
-    "value": "990"
-  },
-  {
     "_id": "court_code_321",
     "_type": "option",
     "text": "Clerkenwell and Shoreditch County Court",
@@ -858,36 +792,6 @@
     "value": "10103"
   },
   {
-    "_id": "court_code_989",
-    "_type": "option",
-    "text": "Community Right to Bid",
-    "value": "989"
-  },
-  {
-    "_id": "court_code_250",
-    "_type": "option",
-    "text": "Contact Centre Loughborough",
-    "value": "250"
-  },
-  {
-    "_id": "court_code_997",
-    "_type": "option",
-    "text": "Copyright Licensing",
-    "value": "997"
-  },
-  {
-    "_id": "court_code_335",
-    "_type": "option",
-    "text": "County Court Business Centre - Traffic Enforcement",
-    "value": "335"
-  },
-  {
-    "_id": "court_code_390",
-    "_type": "option",
-    "text": "County Court Money Claims Centre",
-    "value": "390"
-  },
-  {
     "_id": "court_code_624",
     "_type": "option",
     "text": "Court Recording and Transcription Unit",
@@ -898,30 +802,6 @@
     "_type": "option",
     "text": "Court of Protection",
     "value": "199"
-  },
-  {
-    "_id": "court_code_1023213",
-    "_type": "option",
-    "text": "Courts and Tribunal Service Centre - Divorce",
-    "value": "1023213"
-  },
-  {
-    "_id": "court_code_1023313",
-    "_type": "option",
-    "text": "Courts and Tribunal Service Centre - Single Justice Service",
-    "value": "1023313"
-  },
-  {
-    "_id": "court_code_1023228",
-    "_type": "option",
-    "text": "Courts and Tribunal Service Centre - Social Security and Child Support",
-    "value": "1023228"
-  },
-  {
-    "_id": "court_code_1023113",
-    "_type": "option",
-    "text": "Courts and Tribunal Service Centre – Probate",
-    "value": "1023113"
   },
   {
     "_id": "court_code_180",
@@ -1074,12 +954,6 @@
     "value": "6007"
   },
   {
-    "_id": "court_code_987",
-    "_type": "option",
-    "text": "Driving Standards Agency",
-    "value": "987"
-  },
-  {
     "_id": "court_code_189",
     "_type": "option",
     "text": "Dudley County Court",
@@ -1146,22 +1020,10 @@
     "value": "194"
   },
   {
-    "_id": "court_code_996",
-    "_type": "option",
-    "text": "Electronic Communications and Postal Services",
-    "value": "996"
-  },
-  {
     "_id": "court_code_1002",
     "_type": "option",
     "text": "Employment Appeals Tribunal (Rolls Building)",
     "value": "1002"
-  },
-  {
-    "_id": "court_code_992",
-    "_type": "option",
-    "text": "Examination Board",
-    "value": "992"
   },
   {
     "_id": "court_code_198",
@@ -1198,12 +1060,6 @@
     "_type": "option",
     "text": "Financial Services and Markets and Pensions Regulator",
     "value": "985"
-  },
-  {
-    "_id": "court_code_984",
-    "_type": "option",
-    "text": "First Tier Tax Tribunal",
-    "value": "984"
   },
   {
     "_id": "court_code_988",
@@ -1264,18 +1120,6 @@
     "_type": "option",
     "text": "Gateshead Magistrates' Court",
     "value": "10151"
-  },
-  {
-    "_id": "court_code_1000",
-    "_type": "option",
-    "text": "General Regulatory Chamber",
-    "value": "1000"
-  },
-  {
-    "_id": "court_code_993",
-    "_type": "option",
-    "text": "General Regulatory Chamber Food",
-    "value": "993"
   },
   {
     "_id": "court_code_978",
@@ -1542,24 +1386,6 @@
     "value": "10191"
   },
   {
-    "_id": "court_code_961",
-    "_type": "option",
-    "text": "Immigration Services",
-    "value": "961"
-  },
-  {
-    "_id": "court_code_998",
-    "_type": "option",
-    "text": "Individual Electoral Registration Appeals",
-    "value": "998"
-  },
-  {
-    "_id": "court_code_6049",
-    "_type": "option",
-    "text": "Information Tribunal Leicester",
-    "value": "6049"
-  },
-  {
     "_id": "court_code_440",
     "_type": "option",
     "text": "Inner London Crown Court (Sessions House)",
@@ -1600,12 +1426,6 @@
     "_type": "option",
     "text": "Isleworth Crown Court",
     "value": "475"
-  },
-  {
-    "_id": "court_code_799",
-    "_type": "option",
-    "text": "Jury Central Summoning Bureau",
-    "value": "799"
   },
   {
     "_id": "court_code_778529",
@@ -1744,12 +1564,6 @@
     "_type": "option",
     "text": "Leeds Social Security and Child Support Tribunal",
     "value": "904"
-  },
-  {
-    "_id": "court_code_6047",
-    "_type": "option",
-    "text": "Leicester (Immigration and Asylum Chamber)",
-    "value": "6047"
   },
   {
     "_id": "court_code_244",
@@ -1918,12 +1732,6 @@
     "_type": "option",
     "text": "London and SE Divorce Centre",
     "value": "107"
-  },
-  {
-    "_id": "court_code_1027513",
-    "_type": "option",
-    "text": "Loughborough Courts and Tribunal Service Centre",
-    "value": "1027513"
   },
   {
     "_id": "court_code_10221",
@@ -2220,12 +2028,6 @@
     "value": "10253"
   },
   {
-    "_id": "court_code_1012",
-    "_type": "option",
-    "text": "Nitrates Vulnerable Zones",
-    "value": "1012"
-  },
-  {
     "_id": "court_code_141-A",
     "_type": "option",
     "text": "North East Divorce Unit",
@@ -2376,12 +2178,6 @@
     "value": "10260"
   },
   {
-    "_id": "court_code_779229",
-    "_type": "option",
-    "text": "Online County Court – Online Civil Money Claims",
-    "value": "779229"
-  },
-  {
     "_id": "court_code_291",
     "_type": "option",
     "text": "Oxford County Court",
@@ -2404,18 +2200,6 @@
     "_type": "option",
     "text": "Oxford Probate",
     "value": "5012"
-  },
-  {
-    "_id": "court_code_110",
-    "_type": "option",
-    "text": "PCOL",
-    "value": "110"
-  },
-  {
-    "_id": "court_code_999",
-    "_type": "option",
-    "text": "Pensions Regulations",
-    "value": "999"
   },
   {
     "_id": "court_code_294",
@@ -2538,22 +2322,10 @@
     "value": "10278"
   },
   {
-    "_id": "court_code_909",
-    "_type": "option",
-    "text": "Primary Health Lists",
-    "value": "909"
-  },
-  {
     "_id": "court_code_5001",
     "_type": "option",
     "text": "Probate GBO",
     "value": "5001"
-  },
-  {
-    "_id": "court_code_991",
-    "_type": "option",
-    "text": "Professional Regulation",
-    "value": "991"
   },
   {
     "_id": "court_code_618",
@@ -2784,12 +2556,6 @@
     "value": "10311"
   },
   {
-    "_id": "court_code_323",
-    "_type": "option",
-    "text": "Small Claims Mediation",
-    "value": "323"
-  },
-  {
     "_id": "court_code_87-A",
     "_type": "option",
     "text": "Small Claims Mediation - Administration",
@@ -2862,12 +2628,6 @@
     "value": "471"
   },
   {
-    "_id": "court_code_902",
-    "_type": "option",
-    "text": "Special Educational Needs and Disability",
-    "value": "902"
-  },
-  {
     "_id": "court_code_450",
     "_type": "option",
     "text": "St Albans Crown Court",
@@ -2932,12 +2692,6 @@
     "_type": "option",
     "text": "Stockport Magistrates' Court",
     "value": "10326"
-  },
-  {
-    "_id": "court_code_779450",
-    "_type": "option",
-    "text": "Stoke Courts and Tribunal Service Centre",
-    "value": "779450"
   },
   {
     "_id": "court_code_456",
@@ -3286,12 +3040,6 @@
     "_type": "option",
     "text": "Watford Magistrates' Court",
     "value": "10365"
-  },
-  {
-    "_id": "court_code_1008",
-    "_type": "option",
-    "text": "Welfare of Animals",
-    "value": "1008"
   },
   {
     "_id": "court_code_10366",
