@@ -69,7 +69,7 @@
           "value": "Another reason"
         }
       ],
-      "legend": "Why were you at the court?",
+      "legend": "Why were you at the court or tribunal?",
       "legendSummary": "Why did you come to court?",
       "name": "user_type"
     }

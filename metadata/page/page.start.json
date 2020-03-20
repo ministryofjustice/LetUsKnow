@@ -1,21 +1,20 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "With concerns about the spread of the coronavirus, we are doing more to keep our courts cleaner.",
+  "body": "With concerns about the spread of the coronavirus, we are doing more to keep our courts and tribunals cleaner.",
   "components": [
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.start--content",
       "_type": "content",
       "html": "If you see something that puts you or others at risk, tell us."
     },
     {
-      "_id": "page.start--content--2",
-      "_type": "content",
-      "html": "For serious problems you can [make a \r\ncomplaint online.](https://complain-about-a-court-or-tribunal.form.service.justice.gov.uk/)"
-    },
-    {
       "_id": "page.start--inset",
-      "_type": "inset"
+      "_type": "inset",
+      "html": "We’ve published additional guidance for all court and tribunal users during the coronavirus outbreak. This will be regularly updated as and when new advice and guidance becomes available. [https://www.gov.uk/guidance/coronavirus-covid-19-courts-and-tribunals-planning-and-preparation](https://www.gov.uk/guidance/coronavirus-covid-19-courts-and-tribunals-planning-and-preparation)"
     }
   ],
   "heading": "Let us know",
