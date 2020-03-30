@@ -8,22 +8,13 @@ const processFile = async (file) => {
     .map(item => item.trim())
 
   let fileBuffer = fs.readFileSync(file).toString()
-  fileBuffer = `,,CODE,NAME,NOTES,COMMENTS\n${fileBuffer}`
+  fileBuffer = `CODE,NAME,EMAIL\n${fileBuffer}`
   const csvData = await neatCsv(fileBuffer)
   const courtsList = csvData.filter(item => {
     if (!item.NAME) {
       return false
     }
     if (!item.CODE) {
-      return false
-    }
-    if (item.CODE === 'Code') {
-      return false
-    }
-    if (item.NOTES.match(/deleted|removed/i)) {
-      return false
-    }
-    if (item.COMMENTS.match(/delete|remove/i)) {
       return false
     }
     return true
@@ -35,7 +26,8 @@ const processFile = async (file) => {
       _id: `court_code_${item.CODE.replace(/\s+/g, '_')}`,
       _type: 'option',
       text: `${item.NAME.replace(/&/g, 'and').replace('RCJ', 'Royal Courts of Justice').replace('ASC', 'Administrative Support Centre')}`,
-      value: item.CODE
+      value: item.CODE,
+      name: item.EMAIL
     }))
     .sort((a, b) => {
       if (a.text < b.text) {
@@ -54,7 +46,7 @@ const processFile = async (file) => {
     value: ''
   })
 
-  fs.writeFileSync('./courts-list-options.json', JSON.stringify(courtsList, null, 2))
+  fs.writeFileSync('./courts-list-options-emails.json', JSON.stringify(courtsList, null, 2))
 
   const pathToAutcompleteComponent = path.join('..', 'metadata', 'page', 'page.select-court.json')
 
@@ -63,4 +55,4 @@ const processFile = async (file) => {
   fs.writeFileSync(pathToAutcompleteComponent, JSON.stringify(autocompleteJSON, null, 2))
 }
 
-processFile('./OPTIC-courts-list.csv')
+processFile('./OPTIC-courts-list-emails.csv')
