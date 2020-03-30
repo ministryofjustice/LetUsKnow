@@ -6,11 +6,11 @@
     {
       "_id": "page.start--inset--2",
       "_type": "inset",
-      "html": "We’ve published additional guidance for all court and tribunal users during the coronavirus outbreak. This will be regularly updated as and when new advice and guidance becomes available. [https://www.gov.uk/guidance/coronavirus-covid-19-courts-and-tribunals-planning-and-preparation](https://www.gov.uk/guidance/coronavirus-covid-19-courts-and-tribunals-planning-and-preparation)\r\n\r\n[Follow our daily operational position](https://www.gov.uk/guidance/hmcts-daily-operational-summary-on-courts-and-tribunals-during-coronavirus-covid-19-outbreak)\r\n\r\n[Changes to the way we work from Monday 30 March 2020](https://www.gov.uk/government/news/priority-courts-to-make-sure-justice-is-served)"
+      "html": "We’ve published additional guidance for all court and tribunal users during the coronavirus outbreak. This will be regularly updated as and when new advice and guidance becomes available. [https://www.gov.uk/guidance/coronavirus-covid-19-courts-and-tribunals-planning-and-preparation](https://www.gov.uk/guidance/coronavirus-covid-19-courts-and-tribunals-planning-and-preparation)"
     }
   ],
   "heading": "Let us know",
-  "lede": "With concerns about the spread of the coronavirus, we are doing more to keep our courts and tribunals safer.",
+  "lede": "With concerns about the spread of the coronavirus, we are doing more to keep our courts and tribunals cleaner.",
   "steps": [
     "page.select-court",
     "page.user-type--2",

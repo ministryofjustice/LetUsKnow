@@ -30,9 +30,6 @@
           "value": "Jury service"
         },
         {
-          "$component": true,
-          "$definition": true,
-          "$option": true,
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__1",
           "_type": "radio",
           "label": "I'm involved in a case",
@@ -62,20 +59,14 @@
           "$option": true,
           "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__12",
           "_type": "radio",
-          "label": "I'm a member of HMCTS staff",
-          "value": "Another reason"
-        },
-        {
-          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__1--2",
-          "_type": "radio",
           "conditionalComponent": {
-            "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__1--2--text.auto_name__1",
+            "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__12--text.auto_name__6",
             "_type": "text",
             "label": "Enter another reason",
-            "name": "auto_name__1"
+            "name": "another_reason"
           },
           "label": "Another reason",
-          "value": "auto_value__1"
+          "value": "Another reason"
         }
       ],
       "legend": "Why were you at the court or tribunal?",
