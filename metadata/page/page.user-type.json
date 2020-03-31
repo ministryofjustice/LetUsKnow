@@ -10,37 +10,37 @@
           "_id": "page.user-type--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "label": "I'm a witness",
-          "value": "auto_value__2"
+          "value": "Witness"
         },
         {
           "_id": "page.user-type--radios.auto_name__1--radio.auto_value__3",
           "_type": "radio",
           "label": "I'm doing jury service",
-          "value": "auto_value__3"
+          "value": "Jury service"
         },
         {
           "_id": "page.user-type--radios.auto_name__1--radio.auto_value__4",
           "_type": "radio",
           "label": "I'm involved in a case",
-          "value": "auto_value__4"
+          "value": "Involved in a case"
         },
         {
           "_id": "page.user-type--radios.auto_name__1--radio.auto_value__5",
           "_type": "radio",
           "label": "I’m with someone who’s involved in a case",
-          "value": "auto_value__5"
+          "value": "With someone involved in a case"
         },
         {
           "_id": "page.user-type--radios.auto_name__1--radio.auto_value__6",
           "_type": "radio",
           "label": "I'm a legal professional",
-          "value": "auto_value__6"
+          "value": "Legal professional"
         },
         {
           "_id": "page.user-type--radios.auto_name__1--radio.auto_value__7",
           "_type": "radio",
           "label": "I'm staff at a court or tribunal",
-          "value": "auto_value__7"
+          "value": "Staff"
         },
         {
           "_id": "page.user-type--radios.auto_name__1--radio.auto_value__8",
@@ -52,7 +52,7 @@
             "name": "auto_name__2"
           },
           "label": "Another reason",
-          "value": "auto_value__8"
+          "value": "Another reason"
         }
       ],
       "legend": "Why were you at the court or tribunal?",
