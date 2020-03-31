@@ -1,0 +1,63 @@
+{
+  "_id": "page.user-type",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.user-type--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.user-type--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "I'm a witness",
+          "value": "auto_value__2"
+        },
+        {
+          "_id": "page.user-type--radios.auto_name__1--radio.auto_value__3",
+          "_type": "radio",
+          "label": "I'm doing jury service",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.user-type--radios.auto_name__1--radio.auto_value__4",
+          "_type": "radio",
+          "label": "I'm involved in a case",
+          "value": "auto_value__4"
+        },
+        {
+          "_id": "page.user-type--radios.auto_name__1--radio.auto_value__5",
+          "_type": "radio",
+          "label": "I’m with someone who’s involved in a case",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.user-type--radios.auto_name__1--radio.auto_value__6",
+          "_type": "radio",
+          "label": "I'm a legal professional",
+          "value": "auto_value__6"
+        },
+        {
+          "_id": "page.user-type--radios.auto_name__1--radio.auto_value__7",
+          "_type": "radio",
+          "label": "I'm staff at a court or tribunal",
+          "value": "auto_value__7"
+        },
+        {
+          "_id": "page.user-type--radios.auto_name__1--radio.auto_value__8",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.user-type--radios.auto_name__1--radio.auto_value__8--text.auto_name__2",
+            "_type": "text",
+            "label": "Enter another reason",
+            "name": "auto_name__2"
+          },
+          "label": "Another reason",
+          "value": "auto_value__8"
+        }
+      ],
+      "legend": "Why were you at the court or tribunal?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "user-type"
+}

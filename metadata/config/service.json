@@ -4,7 +4,7 @@
   "_type": "config.service",
   "attachUserSubmission": false,
   "emailSubjectTeam": "Data from LetUsKnow",
-  "name": "LetUsKnow",
+  "name": "Let Us Know",
   "pdfHeading": "Let Us Know",
   "phase": "beta",
   "phaseText": "This is a pilot service – your [feedback](mailto:fixmycourt@justice.gov.uk) will help us to improve it."

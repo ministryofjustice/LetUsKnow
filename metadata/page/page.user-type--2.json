@@ -54,6 +54,12 @@
           "value": "Legal professional"
         },
         {
+          "_id": "page.user-type--2--radios.auto_name__3--radio.auto_value__1--2",
+          "_type": "radio",
+          "label": "I'm staff in a court or tribunal",
+          "value": "auto_value__1"
+        },
+        {
           "$component": true,
           "$definition": true,
           "$option": true,
