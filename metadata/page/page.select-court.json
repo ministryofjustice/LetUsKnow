@@ -24,19 +24,19 @@
           "_id": "court_code_973",
           "_type": "option",
           "text": "Aberdeen Employment Tribunal",
-          "value": "973"
+          "value": "jen.sparks@justice.gov.uk"
         },
         {
           "_id": "court_code_102",
           "_type": "option",
           "text": "Aberystwyth County Court",
-          "value": "102"
+          "value": "jen.sparks@hmcts.net"
         },
         {
           "_id": "court_code_10004",
           "_type": "option",
           "text": "Aberystwyth Magistrates' Court",
-          "value": "10004"
+          "value": "jen.sparks@digital.justice.gov.uk"
         },
         {
           "_id": "court_code_601",
@@ -3323,7 +3323,7 @@
       ],
       "label": "Which court or tribunal did you visit?",
       "labelSummary": "Court name",
-      "name": "court",
+      "name": "court_email",
       "showAllValues": false,
       "validation": {
         "required": true
