@@ -3323,7 +3323,7 @@
       ],
       "label": "Which court or tribunal did you visit?",
       "labelSummary": "Court name",
-      "name": "court_email",
+      "name": "court_number",
       "showAllValues": false,
       "validation": {
         "required": true
